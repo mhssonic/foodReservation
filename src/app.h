@@ -1,0 +1,12 @@
+#ifndef FOODRESERVATION_APP_H
+#define FOODRESERVATION_APP_H
+#include "../database/databas.h"
+#include "../tools.h"
+#include "../objects.h"
+#include "user.h"
+#include "student.h"
+#include "admin.h"
+#include "logs.h"
+#include "food.h"
+void loginPage();
+#endif //FOODRESERVATION_APP_H

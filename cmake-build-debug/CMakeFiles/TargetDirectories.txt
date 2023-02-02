@@ -1,0 +1,3 @@
+/home/mhs/Documents/University/smaster1/programs/foodReservation/cmake-build-debug/CMakeFiles/foodReservation.dir
+/home/mhs/Documents/University/smaster1/programs/foodReservation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mhs/Documents/University/smaster1/programs/foodReservation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

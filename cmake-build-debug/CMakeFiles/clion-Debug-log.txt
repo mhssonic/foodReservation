@@ -1,0 +1,12 @@
+/home/mhs/CLion-2022.2.4.tar.gz?_ga=2.139377274.875464001.1666968432-1897478450/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mhs/CLion-2022.2.4.tar.gz?_ga=2.139377274.875464001.1666968432-1897478450/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/mhs/Documents/University/smaster1/programs/foodReservation -B /home/mhs/Documents/University/smaster1/programs/foodReservation/cmake-build-debug
+-- The C compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found PostgreSQL: /usr/lib/x86_64-linux-gnu/libpq.so (found version "15.1")  
+-- Found Curses: /usr/lib/x86_64-linux-gnu/libcurses.so  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mhs/Documents/University/smaster1/programs/foodReservation/cmake-build-debug
